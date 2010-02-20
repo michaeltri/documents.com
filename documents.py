@@ -20,7 +20,7 @@ from google.appengine.ext.webapp import util
 from google.appengine.ext.webapp import template
 from google.appengine.api.datastore_types import Blob 
 
-admin = "jesse@hogbaysoftware.com"
+admin = "michael.tri7@gmail.com"
 dmp = diff_match_patch()
 
 #def baseN(num,b):
