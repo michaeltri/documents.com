@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Dropbox/Home/dev/git/documents.com/www/index.html</string>
+	<string>cron.yaml</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,7 +21,7 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Dropbox/Home/dev/git/documents.com/README.txt</key>
+		<key>cron.yaml</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -29,160 +29,6 @@
 				<integer>0</integer>
 				<key>line</key>
 				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/app.yaml</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>25</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/appengine_config.py</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/appengine_console.py</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/cron.yaml</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/diff_match_patch.py</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/documents.py</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>31</integer>
-				<key>line</key>
-				<integer>22</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>605</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/index.yaml</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>4</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/templates/Admin.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/templates/Documents.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>18</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/templates/Readme.txt</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>Dropbox/Home/dev/git/documents.com/www/index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>27</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -192,18 +38,7 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Dropbox/Home/dev/git/documents.com/app.yaml</string>
-		<string>Dropbox/Home/dev/git/documents.com/appengine_config.py</string>
-		<string>Dropbox/Home/dev/git/documents.com/appengine_console.py</string>
-		<string>Dropbox/Home/dev/git/documents.com/cron.yaml</string>
-		<string>Dropbox/Home/dev/git/documents.com/diff_match_patch.py</string>
-		<string>Dropbox/Home/dev/git/documents.com/documents.py</string>
-		<string>Dropbox/Home/dev/git/documents.com/index.yaml</string>
-		<string>Dropbox/Home/dev/git/documents.com/README.txt</string>
-		<string>Dropbox/Home/dev/git/documents.com/templates/Admin.html</string>
-		<string>Dropbox/Home/dev/git/documents.com/templates/Documents.html</string>
-		<string>Dropbox/Home/dev/git/documents.com/templates/Readme.txt</string>
-		<string>Dropbox/Home/dev/git/documents.com/www/index.html</string>
+		<string>cron.yaml</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
