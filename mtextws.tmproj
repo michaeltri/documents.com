@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>documents.py</string>
+	<string>www/war/Documents.css</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -103,21 +103,21 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>1763</integer>
 		</dict>
 		<key>documents.py</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>28</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>289</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>639</integer>
+			<integer>4</integer>
 		</dict>
 		<key>index.yaml</key>
 		<dict>
@@ -131,7 +131,49 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>4</integer>
+			<integer>2</integer>
+		</dict>
+		<key>templates/Admin.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>templates/Documents.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>templates/Readme.txt</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 		<key>www/avoid_lock_in.html</key>
 		<dict>
@@ -203,7 +245,35 @@
 			<key>firstVisibleLine</key>
 			<integer>2</integer>
 		</dict>
+		<key>www/war/Documents.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>www/war/Documents.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>www/war/Documents.iPhone.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -240,7 +310,12 @@
 		<string>appengine_config.py</string>
 		<string>index.yaml</string>
 		<string>documents.py</string>
+		<string>www/war/Documents.css</string>
+		<string>templates/Readme.txt</string>
+		<string>templates/Documents.html</string>
+		<string>templates/Admin.html</string>
 		<string>README.txt</string>
+		<string>www/war/Documents.iPhone.html</string>
 		<string>www/supporting_applications.html</string>
 		<string>www/light_security.html</string>
 		<string>www/avoid_lock_in.html</string>
